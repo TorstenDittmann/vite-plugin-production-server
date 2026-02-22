@@ -1,5 +1,6 @@
-- [Introduction](./getting-started/introduction.md)
+- [Introduction](README.md)
 - Getting Started
+    - [Overview](./getting-started/introduction.md)
     - [Installation](./getting-started/installation.md)
     - [Quick Start](./getting-started/quick-start.md)
 - Core Concepts
